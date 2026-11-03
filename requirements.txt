@@ -1,0 +1,6 @@
+esm==3.2.0
+biotite==0.34.0
+matplotlib==3.10.1
+numpy==1.26.4
+pillow==11.2.1
+torch==2.6.0
