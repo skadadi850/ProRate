@@ -9,7 +9,7 @@ fragments are joined by six boundary coordinates quantized in a closed loop. The
 forward kinematics. Lowering lambda moves the tokenizer smoothly along the rate-distortion curve.
 
 This repository contains the code, the released checkpoints' loader, and the scripts that reproduce the reconstruction results and figures
-of the paper (CAMEO and CASP14). Data, checkpoints and cached results of the other methods are distributed as one archive on Zenodo.
+of the paper (CAMEO and CASP14). Data, checkpoints and cached results of the other methods are distributed as one archive on Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24173649.svg)](https://doi.org/10.5281/zenodo.24173649)
 
 ## Results
 
@@ -65,7 +65,7 @@ every figure and how it is produced, training, reproducibility notes and trouble
   title  = {Structural Tokenization of Protein Backbones with Optimal Rate-Distortion Segmentation},
   author = {Kadadi, Simran and Verma, Shourya and Wang, Mengbo and Jayasundara, Shyaman and Barlow, Kyle and Grama, Ananth},
   year   = {2026},
-  note   = {Data and checkpoints: https://doi.org/ZENODO_DOI}
+  note   = {Data and checkpoints: https://doi.org/10.5281/zenodo.24173649}
 }
 ```
 
